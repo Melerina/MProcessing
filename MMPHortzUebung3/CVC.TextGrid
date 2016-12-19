@@ -1,0 +1,148 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.616326530612245 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "CVC" 
+        xmin = 0 
+        xmax = 5.616326530612245 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7199589385242556 
+            text = "" 
+        intervals [2]:
+            xmin = 0.7199589385242556 
+            xmax = 1.3515645468950046 
+            text = "Haf" 
+        intervals [3]:
+            xmin = 1.3515645468950046 
+            xmax = 1.521603974364465 
+            text = "" 
+        intervals [4]:
+            xmin = 1.521603974364465 
+            xmax = 2.21288884866978 
+            text = "Hef" 
+        intervals [5]:
+            xmin = 2.21288884866978 
+            xmax = 2.3674069974832226 
+            text = "" 
+        intervals [6]:
+            xmin = 2.3674069974832226 
+            xmax = 3.011793748967659 
+            text = "Hief" 
+        intervals [7]:
+            xmin = 3.011793748967659 
+            xmax = 3.2620001638381595 
+            text = "" 
+        intervals [8]:
+            xmin = 3.2620001638381595 
+            xmax = 3.9076300746622765 
+            text = "Hof" 
+        intervals [9]:
+            xmin = 3.9076300746622765 
+            xmax = 4.2192855065977986 
+            text = "" 
+        intervals [10]:
+            xmin = 4.2192855065977986 
+            xmax = 4.793444657495908 
+            text = "Huf" 
+        intervals [11]:
+            xmin = 4.793444657495908 
+            xmax = 5.616326530612245 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "SAMPA" 
+        xmin = 0 
+        xmax = 5.616326530612245 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7199589385242556 
+            text = "" 
+        intervals [2]:
+            xmin = 0.7199589385242556 
+            xmax = 0.7999346477159212 
+            text = "h" 
+        intervals [3]:
+            xmin = 0.7999346477159212 
+            xmax = 1.1387589951233672 
+            text = "a:" 
+        intervals [4]:
+            xmin = 1.1387589951233672 
+            xmax = 1.3515645468950046 
+            text = "f" 
+        intervals [5]:
+            xmin = 1.3515645468950046 
+            xmax = 1.521603974364465 
+            text = "" 
+        intervals [6]:
+            xmin = 1.521603974364465 
+            xmax = 1.62309469177467 
+            text = "h" 
+        intervals [7]:
+            xmin = 1.62309469177467 
+            xmax = 2.0085232887015976 
+            text = "e:" 
+        intervals [8]:
+            xmin = 2.0085232887015976 
+            xmax = 2.21288884866978 
+            text = "f" 
+        intervals [9]:
+            xmin = 2.21288884866978 
+            xmax = 2.3674069974832226 
+            text = "" 
+        intervals [10]:
+            xmin = 2.3674069974832226 
+            xmax = 2.5150680669419323 
+            text = "h" 
+        intervals [11]:
+            xmin = 2.5150680669419323 
+            xmax = 2.8346209513454705 
+            text = "i:" 
+        intervals [12]:
+            xmin = 2.8346209513454705 
+            xmax = 3.011793748967659 
+            text = "f" 
+        intervals [13]:
+            xmin = 3.011793748967659 
+            xmax = 3.282729870809109 
+            text = "" 
+        intervals [14]:
+            xmin = 3.282729870809109 
+            xmax = 3.380330324236069 
+            text = "h" 
+        intervals [15]:
+            xmin = 3.380330324236069 
+            xmax = 3.6993743300888267 
+            text = "o:" 
+        intervals [16]:
+            xmin = 3.6993743300888267 
+            xmax = 3.9076300746622765 
+            text = "f" 
+        intervals [17]:
+            xmin = 3.9076300746622765 
+            xmax = 4.2192855065977986 
+            text = "" 
+        intervals [18]:
+            xmin = 4.2192855065977986 
+            xmax = 4.272850174753504 
+            text = "h" 
+        intervals [19]:
+            xmin = 4.272850174753504 
+            xmax = 4.542916110079315 
+            text = "u:" 
+        intervals [20]:
+            xmin = 4.542916110079315 
+            xmax = 4.793444657495908 
+            text = "f" 
+        intervals [21]:
+            xmin = 4.793444657495908 
+            xmax = 5.616326530612245 
+            text = "" 
